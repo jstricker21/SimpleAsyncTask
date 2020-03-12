@@ -56,4 +56,5 @@ public class SimpleAsyncTask extends AsyncTask<Integer, Integer, String> {
         bar.setVisibility(View.GONE);
         mTextView.get().setText(result);
     }
+    //endfile
 }
